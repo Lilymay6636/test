@@ -47,7 +47,7 @@ body {
  /* 改變"name"及"contact"的排列模式 display */
 
  .name {
-    margin-top: 35px;
+    margin-top: 25px;
     /* background-color: #fff; */
 }
 
@@ -60,7 +60,7 @@ body {
 
 .chinese {
     /* border: 1px dashed #000; */
-    font-size: 18px;
+    font-size: 24px;
     margin-bottom: 3px;
 }
 
