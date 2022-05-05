@@ -62,16 +62,18 @@ body {
     /* border: 1px dashed #000; */
     font-size: 24px;
     margin-bottom: 3px;
+    letter-spacing: 5px;
 }
 
 .chinese span {
-    font-size: 12px;
+    font-size: 14px;
+    letter-spacing: 0;
 }
 
 
 .english {
     /* border: 1px dashed #000; */
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 500;
 }
 
@@ -95,7 +97,8 @@ body {
 /* ---------------------------------------------------------------------------------- */
 
 .bot {
-    background-color:#2457cd ;
+    background-color:rgba(0, 0, 0, 0.3) ;
+    background-image: url("https://photo.16pic.com/00/07/45/16pic_745012_b.jpg");
     width: 100%;
     height: 70px;
     position: absolute;
@@ -111,6 +114,7 @@ body {
     /* border: 1px dashed #000; */
     font-size: 14px;
     margin: 1px 0 4px 20px;
+    text-shadow:2px 2px 1px rgba(0, 0, 0, 0.3);
     /* margin: 0 0 0 20px;
     padding: 5px; 
     老師範例*/
